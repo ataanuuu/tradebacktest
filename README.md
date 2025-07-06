@@ -1,7 +1,7 @@
 
 # TradeBacktest
 
-Welcome to the main repository for TradeBacktest, developed by the Finance and Analytics Club at IIT Kanpur.
+Welcome to the main repository for TradeBacktest
 
 ## Getting Started
 
