@@ -11,7 +11,7 @@ To clone this repository to your local machine and set up the project, follow th
 
    ```
    git clone https://github.com/ataanuuu/tradebacktest.git
-   cd QuantWeb-Main
+   cd tradebacktest
    ```
 
 2. Activate your Python virtual environment (recommended):
