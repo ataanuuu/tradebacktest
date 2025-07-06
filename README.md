@@ -1,4 +1,4 @@
-```markdown
+
 # TradeBacktest
 
 Welcome to the main repository for TradeBacktest, developed by the Finance and Analytics Club at IIT Kanpur.
@@ -38,6 +38,3 @@ To clone this repository to your local machine and set up the project, follow th
 TradeBacktest is a web application focused on quantitative finance and analytics. It leverages Django for backend development, providing tools for backtesting trading strategies, analyzing financial data, and more.
 
 This README provides a clear structure for new users to understand what the project is about and how to set it up locally.
-
-Last Update: 6th July, 2025
-```
